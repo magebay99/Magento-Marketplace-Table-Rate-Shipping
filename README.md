@@ -2,6 +2,7 @@
 Magento 2 Marketplace Table Rate Shipping Extension is a plugin of Magebay Multi Vendor Marketplace Extension. It is allow Vendors can easy to create their shipping method and visible their shipping method in Checkout page.
 
 Read more [Magento Marketplace Table Rate Shipping Extension](https://www.magebay.com/magento-marketplace-table-rate-shipping)
+
 Read more [Magento 2 Multi Vendor](https://www.magebay.com/magento-multi-vendor-marketplace-extension)
 
 ## Top Features of Marketplace Table Rate Shipping for Magento 2
