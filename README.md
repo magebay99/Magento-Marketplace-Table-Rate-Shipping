@@ -10,9 +10,11 @@ Read more [Magento 2 Multi Vendor](https://www.magebay.com/magento-multi-vendor-
 - Vendor can manage their shipping method
 - Admin can change any settings on Backend
 - Compatible with all plugins of Magebay Multi Vendor Extension
-- Support all languages
-- Support Multiple Store
-- 100% open source
 
 This plugin allow Admin can manage all shipping method of Vendors in Marketplace. They can disable/enable or update any method. The shipping price is calculate base on Country, Region, State, Weight, per order, per product.
 
+
+### Other:
+- Support all languages
+- Support Multiple Store
+- 100% open source
